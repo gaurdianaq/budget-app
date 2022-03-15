@@ -19,4 +19,4 @@ class Recipe_Products(tag: Tag) extends Table[(Int, Int, Int, Float)](tag, "RECI
     def product_id = column[Int]("PROD_ID")
     def recipe_id = column[Int]("REC_ID")
     def product_quantity = column[Float]("PROD_QUANTITY")
-    def product_fk = foreignKey("PROD_FK")
+    def product_fk = foreignKey("PROD_FK", product_id)

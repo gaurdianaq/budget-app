@@ -1,0 +1,8 @@
+2022.03.15 13:32:53 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gaurdianaq/repos/budget-app/.metals/lsp.trace.json or /home/gaurdianaq/.cache/metals/lsp.trace.json[0m
+2022.03.15 13:32:53 INFO  logging to file /home/gaurdianaq/repos/budget-app/.metals/metals.log[0m
+2022.03.15 13:32:53 INFO  Started: Metals version 0.11.2 in workspace '/home/gaurdianaq/repos/budget-app' for client VSCodium 1.64.2.[0m
+2022.03.15 13:32:53 INFO  Parse release: 17.0.2[0m
+2022.03.15 13:32:54 INFO  time: initialize in 1.21s[0m
+2022.03.15 13:32:54 WARN  Build server is not auto-connectable.[0m
+2022.03.15 13:32:55 WARN  no build target for: /home/gaurdianaq/repos/budget-app/src/main/scala/Data.scala[0m
+2022.03.15 13:32:56 INFO  no build target found for /home/gaurdianaq/repos/budget-app/src/main/scala/Data.scala. Using presentation compiler with project's scala-library version: 3.1.1[0m
